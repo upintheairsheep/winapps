@@ -36,6 +36,7 @@ Examples of unacceptable behavior include:
   without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
+* **Purposely adding security vulnribilities or adding malware to the project. Doing this will instantly permanently ban you and report you to GitHub staff.**
 
 ## Enforcement Responsibilities
 
